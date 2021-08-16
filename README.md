@@ -3,14 +3,13 @@
 🌱 I’m currently studying in the 2nd year of [Software and Knowledge Engineering, Kasetsart University](http://iup.eng.ku.ac.th/index.php/en/study-programs/software-and-knowledge-engineering.html).    
 💞️ I’m looking to collaborate on some cool projects.
 
-### Connect with me:
+### 📫 Connect with me:
 
 [<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
 <br />
 
 ### 📊 GitHub Stats:
