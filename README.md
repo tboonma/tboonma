@@ -17,6 +17,8 @@
   <img align="center" width="auto" height="100%" src="https://github-readme-stats.vercel.app/api?username=tboonma&hide=stars&include_all_commits=true&show_icons=true&theme=algolia" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=tboonma&style=flat-square)
+
 [linkedin]: https://www.linkedin.com/in/tboonma/
 [instagram]: https://www.instagram.com/tboonma_/
 [facebook]: https://www.facebook.com/tboonmaeiei
