@@ -3,14 +3,14 @@
 🌱 I’m currently studying in the 2nd year of [Software and Knowledge Engineering, Kasetsart University](http://iup.eng.ku.ac.th/index.php/en/study-programs/software-and-knowledge-engineering.html).    
 💞️ I’m looking to collaborate on some cool projects.
 
-## ![mail](https://user-images.githubusercontent.com/63687258/147871787-746e2191-0322-4ef5-add2-bb253bbe3a51.gif) Connect with me:
+## ![mailbox](https://user-images.githubusercontent.com/63687258/148563709-7484918e-9a83-436f-820d-c6cea63be1e1.gif) Connect with me:
 
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vibhorchaudhary | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br />
+<p align="left">
+<a href="https://linkedin.com/in/tboonma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tboonma" height="30" width="40" /></a>
+<a href="https://fb.com/tboonmaeiei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tboonmaeiei" height="30" width="40" /></a>
+<a href="https://instagram.com/tboonma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tboonma_" height="30" width="40" /></a>
+<a href="https://twitter.com/tboonmaeiei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tboonmaeiei" height="30" width="40" /></a>
+</p>
 
 ## ![rocket](https://user-images.githubusercontent.com/63687258/147871609-09926a9a-806f-4c86-8b7f-cb05d1df4bd4.gif) Language and tools
 
@@ -43,15 +43,3 @@
 [instagram]: https://www.instagram.com/tboonma_/
 [facebook]: https://www.facebook.com/tboonmaeiei
 [github]: https://github.com/tboonma
-<!---
-- 👋 Hi, I’m @tboonma
-- 👀 I’m interested in ...
-- 
-- 
-- 📫 How to reach me ...
---->
-
-<!---
-tboonma/tboonma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
