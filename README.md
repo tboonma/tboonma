@@ -35,7 +35,7 @@
 ## ![fire](https://user-images.githubusercontent.com/63687258/147871849-d47ddd17-bd94-4e65-a92f-59949317d942.gif) GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tboonma&show_icons=true&theme=algolia&hide=stars&count_private=true)    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tboonma&layout=compact&count_private=true&hide=less,scss,c,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tboonma&layout=compact&count_private=true&hide=less,css,scss,c,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=tboonma&style=flat-square)
 
