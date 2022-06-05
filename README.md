@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+# Hi there 👋
 ### I am Tawan Boonma.    
 🌱 I’m currently studying in the 2nd year of [Software and Knowledge Engineering, Kasetsart University](http://iup.eng.ku.ac.th/index.php/en/study-programs/software-and-knowledge-engineering.html).    
 💞️ I’m looking to collaborate on some cool projects.
