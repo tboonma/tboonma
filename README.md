@@ -1,6 +1,6 @@
 # Hi there 👋
 ### I am Tawan Boonma.    
-🌱 I’m currently studying in the 2nd year of [Software and Knowledge Engineering, Kasetsart University](http://iup.eng.ku.ac.th/index.php/en/study-programs/software-and-knowledge-engineering.html).    
+🌱 I’m currently studying in the 3rd year of [Software and Knowledge Engineering, Kasetsart University](http://iup.eng.ku.ac.th/index.php/en/study-programs/software-and-knowledge-engineering.html).    
 💞️ I’m looking to collaborate on some cool projects.
 
 ## ![mailbox](https://user-images.githubusercontent.com/63687258/148563709-7484918e-9a83-436f-820d-c6cea63be1e1.gif) Connect with me:
